@@ -1,0 +1,23 @@
+Partlist exported from C:/Users/cojoc/OneDrive/Desktop/Interview-Hardware-Test-main/Buck Regulator.sch at 18/04/2021 15:53
+
+Part Value         Device        Package       Description                            MF MPN     OC_FARNELL OC_NEWARK POPULARITY R3  SPICEPREFIX TP_SIGNAL_NAME
+C1   2.2uF         C-EUC1812     C1812         CAPACITOR, European symbol                                             3              C                         
+C2   1uF           C-EUC0603     C0603         CAPACITOR, European symbol                                             73             C                         
+C3   10nF          C-EUC0603     C0603         CAPACITOR, European symbol                                             73             C                         
+C4   4.7nF         C-EUC0603     C0603         CAPACITOR, European symbol                                             73             C                         
+C5   22nF          C2.5/2        C2.5-2        CAPACITOR                                                              28                                       
+C6   4.7uF         C-EUC0603     C0603         CAPACITOR, European symbol                                             73             C                         
+C7   6.2nF         C2.5/2        C2.5-2        CAPACITOR                                                              28                                       
+H1   MOUNT-HOLE3.2 MOUNT-HOLE3.2 3,2           MOUNTING HOLE with drill center marker                                 7                                        
+H2   MOUNT-HOLE3.2 MOUNT-HOLE3.2 3,2           MOUNTING HOLE with drill center marker                                 7                                        
+H3   MOUNT-HOLE3.2 MOUNT-HOLE3.2 3,2           MOUNTING HOLE with drill center marker                                 7                                        
+H4   MOUNT-HOLE3.2 MOUNT-HOLE3.2 3,2           MOUNTING HOLE with drill center marker                                 7                                        
+IC1  LM5017        LM5017        SO-08-EP                                                                                                                      
+L1   SDR1307-391KL SDR1307-391KL SDR1307-391KL                                                                                                                 
+R1   499k          R-EU_R0603    R0603         RESISTOR, European symbol                                              70             R                         
+R2   10k           R-EU_R0603    R0603         RESISTOR, European symbol                                              70         10k R                         
+R3   665           R-EU_R0603    R0603         RESISTOR, European symbol                                              70             R                         
+R5   392k          R-EU_R0603    R0603         RESISTOR, European symbol                                              70             R                         
+TP2  TPB1,27       TPB1,27       B1,27         Test pad                                                               19                                       
+X1                 W237-102      W237-102      WAGO SCREW CLAMP                          237-102 unknown    70K9898   32                                       
+X2                 W237-102      W237-102      WAGO SCREW CLAMP                          237-102 unknown    70K9898   32                                       
